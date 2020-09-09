@@ -207,9 +207,9 @@ class AsciiImage:
 
     def run_samples(self):
         # self.create_ascii_picture("Sheeta.jpeg", zoom=4, colorful=True)
-        #self.create_ascii_picture("Sheeta.jpeg", zoom=10, colorful=False)
+        # self.create_ascii_picture("Sheeta.jpeg", zoom=10, colorful=False)
         # self.create_ascii_picture("GongXiFaCai.png", zoom=1, save_txt=True, colorful=False)
-        self.create_ascii_gif("Agnes.gif", zoom=10)
+        self.create_ascii_gif("Agnes.gif", zoom=5)
         # self.create_ascii_gif("Cat.gif", zoom=10)
 
 
