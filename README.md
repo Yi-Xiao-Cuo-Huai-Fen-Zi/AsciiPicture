@@ -38,3 +38,15 @@ ai.create_ascii_gif("Agnes.gif", zoom=5)
 
 处理后：
 ![Agnes.gif](https://github.com/Yi-Xiao-Cuo-Huai-Fen-Zi/AsciiPicture/blob/master/output_images/Agnes.gif)
+
+### 生成字符文本：
+原始图片：
+![GongXiFaCai.png](https://github.com/Yi-Xiao-Cuo-Huai-Fen-Zi/AsciiPicture/blob/master/input_images/GongXiFaCai.png)
+
+处理代码：
+```python
+ai = AsciiImage()
+ai.create_ascii_picture("GongXiFaCai.png", zoom=1, save_txt=True, colorful=False)
+```
+处理后：
+![GongXiFaCai.txt](https://github.com/Yi-Xiao-Cuo-Huai-Fen-Zi/AsciiPicture/blob/master/output_images/GongXiFaCai.txt)
