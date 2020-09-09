@@ -33,7 +33,7 @@ ai.create_ascii_picture("Sheeta.jpeg", zoom=4, colorful=False)
 处理代码：
 ```python
 ai = AsciiImage()
-ai.create_ascii_gif("Agnes.gif", zoom=10)
+ai.create_ascii_gif("Agnes.gif", zoom=5)
 ```
 
 处理后：
