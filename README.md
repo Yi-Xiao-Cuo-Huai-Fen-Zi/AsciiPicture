@@ -49,4 +49,4 @@ ai = AsciiImage()
 ai.create_ascii_picture("GongXiFaCai.png", zoom=1, save_txt=True, colorful=False)
 ```
 处理后：
-![GongXiFaCai.txt](https://github.com/Yi-Xiao-Cuo-Huai-Fen-Zi/AsciiPicture/blob/master/output_images/GongXiFaCai.txt)
+[GongXiFaCai.txt](https://github.com/Yi-Xiao-Cuo-Huai-Fen-Zi/AsciiPicture/blob/master/output_images/GongXiFaCai.txt)
